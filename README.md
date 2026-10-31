@@ -6,7 +6,7 @@
 
 [Ithkuil vertical glyphs](https://github.com/EngAvr/Ithkuil/blob/master/Ver_02_VerticalTripod/Readme.md "Ithkuil vertical glyphs")
 
-<raw>
+```
 ╭───╮  ╭───╮╭───╮╭───╮╭───╮
 │Esc│  │F1 ││F2 ││F3 ││F4 │
 ╰───╯  ╰───╯╰───╯╰───╯╰───╯
@@ -25,4 +25,4 @@
 ╭───────╮╭──────╮╭──────╮╭─────────────────────────────────╮╭───────╮╭───────╮
 │ Ctrl  ││  Win ││ Alt  ││            Spacebar             ││  Alt  ││ Ctrl  │
 ╰───────╯╰──────╯╰──────╯╰─────────────────────────────────╯╰───────╯╰───────╯
-</raw>
+```
