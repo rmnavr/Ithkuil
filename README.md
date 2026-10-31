@@ -6,9 +6,7 @@
 
 [Ithkuil vertical glyphs](https://github.com/EngAvr/Ithkuil/blob/master/Ver_02_VerticalTripod/Readme.md "Ithkuil vertical glyphs")
 
-<div align="center">
-  <svg xmlns="http://w3.org" viewBox="0 0 710 240" width="100%" max-width="710" style="background: transparent;">
-    <text x="0" y="20" font-family="ui-monospace, SFMono-Regular, SF Mono, Consolas, monospace" font-size="13" fill="currentColor" xml:space="preserve">
+<raw>
 ╭───╮  ╭───╮╭───╮╭───╮╭───╮
 │Esc│  │F1 ││F2 ││F3 ││F4 │
 ╰───╯  ╰───╯╰───╯╰───╯╰───╯
@@ -27,6 +25,4 @@
 ╭───────╮╭──────╮╭──────╮╭─────────────────────────────────╮╭───────╮╭───────╮
 │ Ctrl  ││  Win ││ Alt  ││            Spacebar             ││  Alt  ││ Ctrl  │
 ╰───────╯╰──────╯╰──────╯╰─────────────────────────────────╯╰───────╯╰───────╯
-    </text>
-  </svg>
-</div>
+</raw>
