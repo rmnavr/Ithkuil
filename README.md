@@ -5,7 +5,7 @@
 [Ithkuil logograms](https://github.com/EngAvr/Ithkuil/blob/master/Ver_01_CircleStyle/readme.md "Ithkuil logograms")
 
 [Ithkuil vertical glyphs](https://github.com/EngAvr/Ithkuil/blob/master/Ver_02_VerticalTripod/Readme.md "Ithkuil vertical glyphs")
-```
+
 ```
 
  Esc     F1     F2    F3   F4
@@ -25,7 +25,4 @@
 
   Ctrl     Win     Alt                Spacebar                 Alt     Ctrl  
 -------- ------- ------- ----------------------------------- ------- --------
-```
-
-
 ```
